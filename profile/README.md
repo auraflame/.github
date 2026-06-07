@@ -17,10 +17,12 @@
 | 产品 | 类型 | 简介 |
 |---|---|---|
 | **aurashell 灵烨桌面** | Windows 桌面 | 桌面级 Dashboard，Rust + Tauri · [aurashell.dev](https://aurashell.dev) |
+| **TabScribe** | Chrome 扩展 | 一键复制/导出标签页为 Markdown / JSON / HTML · [GitHub](https://github.com/auraflame/tabscribe) · [Gitee](https://gitee.com/liuxinye/tab-stribe) |
 
 ### 📦 仓库
 
 - [auraflame-studio](https://github.com/auraflame/auraflame-studio) — 工作目录 / 元仓库
+- [tabscribe](https://github.com/auraflame/tabscribe) — Chrome 扩展源代码
 
 ### 🛠️ 技术栈
 
